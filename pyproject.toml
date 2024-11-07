@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kraft-quorum-inspect"
+version = "0.1.0"
+description = "Show the health of a Kafka KRaft controller quorum at a glance: leader, voters, observers and replication lag."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Narayana Vemburaj" }]
+keywords = ["kafka", "kraft", "quorum", "monitoring"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: System :: Monitoring",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[project.urls]
+Homepage = "https://github.com/narayana006/kraft-quorum-inspect"
+
+[project.scripts]
+kraft-quorum-inspect = "kraft_quorum_inspect.cli:main"
+
+[tool.setuptools]
+packages = ["kraft_quorum_inspect"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
