@@ -1,0 +1,7 @@
+NodeId	DirectoryId           	LogEndOffset	Lag	LastFetchTimestamp	LastCaughtUpTimestamp	Status  	
+2     	AAAAAAAAAAAAAAAAAAAAAA	373         	0  	5 ms ago          	6 ms ago             	Leader  	
+1     	AAAAAAAAAAAAAAAAAAAAAA	373         	0  	367 ms ago        	367 ms ago           	Follower	
+3     	AAAAAAAAAAAAAAAAAAAAAA	347         	26 	12917 ms ago      	13407 ms ago         	Follower	
+103   	WUzpLRq-4YHTNLW0Wpwv2A	373         	0  	367 ms ago        	367 ms ago           	Observer	
+102   	YZuPlGRwz_Dxi1Hnwv2o8g	373         	0  	367 ms ago        	367 ms ago           	Observer	
+101   	ZypZ5LgOtTNzCMFaBMsyNA	373         	0  	366 ms ago        	367 ms ago           	Observer	

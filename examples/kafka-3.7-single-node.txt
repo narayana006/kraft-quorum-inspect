@@ -1,0 +1,10 @@
+ClusterId:              Some(5L6g3nShT-eMCtK--X86sw)
+LeaderId:               1
+LeaderEpoch:            1
+HighWatermark:          34
+MaxFollowerLag:         0
+MaxFollowerLagTimeMs:   0
+CurrentVoters:          [1]
+CurrentObservers:       []
+NodeId	LogEndOffset	Lag	LastFetchTimestamp	LastCaughtUpTimestamp	Status	
+1     	37          	0  	1794287969559     	1794287969559        	Leader	

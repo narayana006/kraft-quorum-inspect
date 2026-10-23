@@ -1,0 +1,8 @@
+ClusterId:              q1Sh-9_ISia_zwGINzRvyQ
+LeaderId:               2
+LeaderEpoch:            1
+HighWatermark:          336
+MaxFollowerLag:         0
+MaxFollowerLagTimeMs:   341
+CurrentVoters:          [{"id": 1, "endpoints": ["CONTROLLER://controller-1:9093"]}, {"id": 2, "endpoints": ["CONTROLLER://controller-2:9093"]}, {"id": 3, "endpoints": ["CONTROLLER://controller-3:9093"]}]
+CurrentObservers:       [{"id": 103, "directoryId": "WUzpLRq-4YHTNLW0Wpwv2A"}, {"id": 102, "directoryId": "YZuPlGRwz_Dxi1Hnwv2o8g"}, {"id": 101, "directoryId": "ZypZ5LgOtTNzCMFaBMsyNA"}]

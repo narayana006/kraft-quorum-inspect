@@ -1,0 +1,7 @@
+NodeId	DirectoryId           	LogEndOffset	Lag	LastFetchTimestamp	LastCaughtUpTimestamp	Status  	
+2     	AAAAAAAAAAAAAAAAAAAAAA	339         	0  	1794287829091     	1794287829091        	Leader  	
+1     	AAAAAAAAAAAAAAAAAAAAAA	339         	0  	1794287828605     	1794287828605        	Follower	
+3     	AAAAAAAAAAAAAAAAAAAAAA	339         	0  	1794287828607     	1794287828607        	Follower	
+103   	WUzpLRq-4YHTNLW0Wpwv2A	339         	0  	1794287828606     	1794287828606        	Observer	
+102   	YZuPlGRwz_Dxi1Hnwv2o8g	339         	0  	1794287828607     	1794287828607        	Observer	
+101   	ZypZ5LgOtTNzCMFaBMsyNA	339         	0  	1794287828603     	1794287828603        	Observer	

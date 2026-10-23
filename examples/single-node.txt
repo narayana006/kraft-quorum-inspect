@@ -1,0 +1,10 @@
+ClusterId:              J7s9e8PPTKOO47PxzI39VA
+LeaderId:               1
+LeaderEpoch:            1
+HighWatermark:          112
+MaxFollowerLag:         0
+MaxFollowerLagTimeMs:   0
+CurrentVoters:          [{"id": 1, "endpoints": ["CONTROLLER://kafka:9093"]}]
+CurrentObservers:       []
+NodeId	DirectoryId           	LogEndOffset	Lag	LastFetchTimestamp	LastCaughtUpTimestamp	Status	
+1     	AAAAAAAAAAAAAAAAAAAAAA	115         	0  	1794287943803     	1794287943803        	Leader	

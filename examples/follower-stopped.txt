@@ -1,0 +1,15 @@
+ClusterId:              q1Sh-9_ISia_zwGINzRvyQ
+LeaderId:               2
+LeaderEpoch:            1
+HighWatermark:          367
+MaxFollowerLag:         20
+MaxFollowerLagTimeMs:   10222
+CurrentVoters:          [{"id": 1, "endpoints": ["CONTROLLER://controller-1:9093"]}, {"id": 2, "endpoints": ["CONTROLLER://controller-2:9093"]}, {"id": 3, "endpoints": ["CONTROLLER://controller-3:9093"]}]
+CurrentObservers:       [{"id": 103, "directoryId": "WUzpLRq-4YHTNLW0Wpwv2A"}, {"id": 102, "directoryId": "YZuPlGRwz_Dxi1Hnwv2o8g"}, {"id": 101, "directoryId": "ZypZ5LgOtTNzCMFaBMsyNA"}]
+NodeId	DirectoryId           	LogEndOffset	Lag	LastFetchTimestamp	LastCaughtUpTimestamp	Status  	
+2     	AAAAAAAAAAAAAAAAAAAAAA	370         	0  	1794287844420     	1794287844420        	Leader  	
+1     	AAAAAAAAAAAAAAAAAAAAAA	370         	0  	1794287844205     	1794287844205        	Follower	
+3     	AAAAAAAAAAAAAAAAAAAAAA	347         	23 	1794287833159     	1794287832669        	Follower	
+103   	WUzpLRq-4YHTNLW0Wpwv2A	370         	0  	1794287844205     	1794287844205        	Observer	
+102   	YZuPlGRwz_Dxi1Hnwv2o8g	370         	0  	1794287844205     	1794287844205        	Observer	
+101   	ZypZ5LgOtTNzCMFaBMsyNA	370         	0  	1794287844205     	1794287844205        	Observer	
